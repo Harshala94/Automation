@@ -12,7 +12,6 @@ public class HomePage extends TestBase{
 	WebElement userProfileName;
 	
 	//testpush
-	//testpom
 	
 	
 	@FindBy(xpath="//span[contains(text(),\"Friends\")]")
